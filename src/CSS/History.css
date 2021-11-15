@@ -1,0 +1,19 @@
+.history-container{
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+    align-items: center;
+    height: 54px;
+    /* flex-grow: 1; */
+}
+
+.each-history{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    box-shadow: -2px -3px 8px 4px rgb(228 239 245 / 20%), -4px -2px 12px 2px rgb(127 148 168 / 19%);
+
+}

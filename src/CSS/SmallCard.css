@@ -1,0 +1,39 @@
+.card-container{
+    height: 200px;
+    width: 227px;
+    display: flex;
+    align-items: flex-end;
+    user-select: none;
+}
+.pokemon-image{
+    position: absolute;
+    top:-50px;
+    left: 61px;
+}
+
+.intro-container{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px ;
+    font-weight: 600;
+    color: rgba(74, 78, 78, 0.788);
+    height: 150px;
+    width: 227px;
+    position: relative;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -2px -3px 8px 4px rgb(228 239 245 / 20%), -4px -2px 12px 2px rgb(127 148 168 / 19%);
+}
+
+span.type{
+    font-weight:200;
+    font-size: 12px;
+    padding: 7px 15px;
+    border-radius: 5px;
+    color: white;
+    margin: 5px;
+    background-color: rgb(88, 113, 124);
+
+}

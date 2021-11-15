@@ -1,0 +1,7 @@
+.all-card-container{
+    display: flex;
+    justify-content: start;
+    gap: 24px;
+    flex-wrap: wrap;
+    overflow: auto;
+}

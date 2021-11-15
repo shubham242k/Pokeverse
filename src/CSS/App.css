@@ -1,0 +1,35 @@
+.background{
+    margin: 0px;
+    box-sizing: border-box;
+    
+    background-color: rgba(228, 239, 245, 1);
+    height: 100vh;
+}
+
+.left-container{
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    height: 100vh;
+    gap: 20px;
+}
+.right-container{
+    display: flex;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    
+    height: 100vh;
+    gap: 20px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.line-breaker{
+    width: 100%;
+    margin: 0px 80px;
+    background-color: rgb(202, 198, 198);
+    height: 0.5px;
+}
