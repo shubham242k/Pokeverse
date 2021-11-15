@@ -12,7 +12,7 @@
     "trie-search": "^1.3.5",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "http://shubham242k.github.io/Pokeverse",
+  "homepage": "http://shubham242k.github.io/pokeverse",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
